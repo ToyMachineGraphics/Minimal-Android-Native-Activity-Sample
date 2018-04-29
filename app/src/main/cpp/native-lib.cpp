@@ -4,7 +4,7 @@
 
 using std::string;
 
-const string TAG = "native-activity";
+const string TAG = "nativeactivity";
 
 /**
  * This is the main entry point of a native application that is using
